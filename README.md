@@ -8,9 +8,8 @@ Threat_Hunter is a tool which helps identify top level threats via using less re
 
 ## Usage:
 
-```
+ ![image]( https://j.gifs.com/r8jnMk.gif)
 
-```
 
 ## Installation
 
