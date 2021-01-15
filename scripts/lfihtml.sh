@@ -14,7 +14,7 @@ if [ ! -d /home/noob/html_repo ]
 then
   mkdir /home/noob/html_repo
 fi
-	html="/home/noob/html_repo/lfi-repo.html"
+	html="~/html_repo/lfi-repo.html"
 	email_add="test411062@gmail.com"
 	#for i in `ls /home`; do sudo du -sh /home/$i/* | sort -nr | grep G; done > /tmp/dir.txt
 
