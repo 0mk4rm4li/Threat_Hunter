@@ -14,5 +14,7 @@ Threat_Hunter is a tool which helps identify top level threats via using less re
 ## Installation
 
 ```
+$ git clone https://github.com/0mk4rm4li/Threat_Hunter.git
 $ chmod +x install.sh
 $ sudo ./install.sh
+$ ./threathunter.sh
