@@ -55,6 +55,8 @@ case $number in
 	
 	4)	
 		echo -e $"\n\n ${red} ========== Doing Log Analysis ========== ${reset}\n"
+		read -p "Enter The Path Of Log File : " log
+		/root/project_2/scripts/./log.sh $log
 		;;
 	
 	5)	
