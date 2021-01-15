@@ -1,5 +1,7 @@
 #!/bin/bash
 
+chmod +x threathunter.sh
+
 mv scripts ~/scripts;
 
 cd ~/scripts;
