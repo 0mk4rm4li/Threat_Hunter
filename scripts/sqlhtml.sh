@@ -10,11 +10,11 @@ fi
 #Creating a directory if it doesn't exist to store reports first, for easy maintenance.
 
 
-if [ ! -d /home/noob/html_repo ]
+if [ ! -d ~/html_repo ]
 then
-  mkdir /home/noob/html_repo
+  mkdir ~/html_repo
 fi
-	html="/home/noob/html_repo/sql-repo.html"
+	html="~/html_repo/sql-repo.html"
 	email_add="test411062@gmail.com"
 	#for i in `ls /home`; do sudo du -sh /home/$i/* | sort -nr | grep G; done > /tmp/dir.txt
 
