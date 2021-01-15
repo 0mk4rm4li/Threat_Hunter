@@ -1,0 +1,12 @@
+[32m[+] Not Vulnerable To Xss[0m : http://testphp.vulnweb.com:80/categories.php/listproducts.php?cat=%22%3E%3Cscript%3Econfirm%281%29%3C%2Fscript%3E
+[32m[+] Not Vulnerable To Xss[0m : http://testphp.vulnweb.com:80/artists.php?artist=%22%3E%3Cscript%3Econfirm%281%29%3C%2Fscript%3E
+[32m[+] Not Vulnerable To Xss[0m : http://testphp.vulnweb.com:80/admin/?C=%22%3E%3Cscript%3Econfirm%281%29%3C%2Fscript%3E
+[32m[+] Not Vulnerable To Xss[0m : http://testphp.vulnweb.com:80/comment.php?aid=%22%3E%3Cscript%3Econfirm%281%29%3C%2Fscript%3E
+[32m[+] Not Vulnerable To Xss[0m : http://testphp.vulnweb.com:80/artists.php?artist+=%22%3E%3Cscript%3Econfirm%281%29%3C%2Fscript%3E
+[32m[+] Not Vulnerable To Xss[0m : http://testphp.vulnweb.com:80/comment.php?pid=%22%3E%3Cscript%3Econfirm%281%29%3C%2Fscript%3E
+[32m[+] Not Vulnerable To Xss[0m : http://testphp.vulnweb.com:80/AJAX/infocateg.php?id=%22%3E%3Cscript%3Econfirm%281%29%3C%2Fscript%3E
+[32m[+] Not Vulnerable To Xss[0m : http://testphp.vulnweb.com:80/product.php?pic=%22%3E%3Cscript%3Econfirm%281%29%3C%2Fscript%3E
+[32m[+] Not Vulnerable To Xss[0m : http://testphp.vulnweb.com:80/search.php?test=%22%3E%3Cscript%3Econfirm%281%29%3C%2Fscript%3E
+[32m[+] Not Vulnerable To Xss[0m : http://testphp.vulnweb.com:80/secured/phpinfo.php?=%22%3E%3Cscript%3Econfirm%281%29%3C%2Fscript%3E
+[32m[+] Not Vulnerable To Xss[0m : http://testphp.vulnweb.com/Mod_Rewrite_Shop/details.php?id=%22%3E%3Cscript%3Econfirm%281%29%3C%2Fscript%3E
+[32m[+] Not Vulnerable To Xss[0m : http://testphp.vulnweb.com/?param=%22%3E%3Cscript%3Econfirm%281%29%3C%2Fscript%3E
