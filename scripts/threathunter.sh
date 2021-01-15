@@ -38,25 +38,25 @@ case $number in
 	1)	
 		echo -e $"\n\n ${red} ========== Testing SQL Injection ========== ${reset}\n"
 		read -p "Enter The URL : " sql
-		/root/project_2/scripts/./sql.sh $sql
+		~/scripts/./sql.sh $sql
 		;;
 	
 	2)	
 		echo -e $"\n\n ${red} ========== Testing Cross Site Scripting (XSS) ========== ${reset}\n"
 		read -p "Enter the URL :" xss
-		/root/project_2/scripts/./xss.sh $xss
+		~/scripts/./xss.sh $xss
 		;;
 	
 	3)	
 		echo -e $"\n\n ${red} ========== Testing Local File Inclusion (LFI) ========== ${reset}\n"
 		read -p "Enter The URL : " lfi
-		/root/project_2/scripts/./lfi.sh $lfi
+		~/scripts/./lfi.sh $lfi
 		;;
 	
 	4)	
 		echo -e $"\n\n ${red} ========== Doing Log Analysis ========== ${reset}\n"
 		read -p "Enter The Path Of Log File : " log
-		/root/project_2/scripts/./log.sh $log
+		~/scripts/./log.sh $log
 		;;
 	
 	5)	
