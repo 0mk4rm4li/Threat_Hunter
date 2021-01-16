@@ -8,7 +8,7 @@ cd ~/scripts;
 
 chmod +x *.sh;
 
-git clone https://github.com/projectdiscovery/httpx.git; cd httpx/cmd/httpx; go build; mv httpx /usr/local/bin/; rm -r httpx/
+git clone https://github.com/projectdiscovery/httpx.git; cd httpx/cmd/httpx; go build; mv httpx /usr/local/bin/; rm -r httpx
 
 wget https://github.com/lc/gau/releases/download/v1.1.0/gau_1.1.0_linux_amd64.tar.gz; gzip -d gau_1.1.0_linux_amd64.tar.gz; tar xvf gau_1.1.0_linux_amd64.tar; rm LICENSE README.md; rm gau_1.1.0_linux_amd64.tar; mv gau /usr/bin/gau
 
